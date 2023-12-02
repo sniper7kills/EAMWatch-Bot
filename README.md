@@ -1,9 +1,11 @@
 # EAMWatch-Bot
 
 ## Setup
+```sh
 git clone https://github.com/sniper7kills/EAMWatch-Bot.git
 cd EAMWatch-Bot
 pip install -r requirements.txt
+```
 
 ## Running:
 1) Obtain API Token
